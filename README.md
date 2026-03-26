@@ -37,7 +37,7 @@ _______
 ### Navigation apps
 * [Komoot](https://www.komoot.com/) - Komoot - offline navigation app
 * [OsmAnd](https://osmand.net/) - OsmAnd - offline navigation app
-
+* [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 ## News
 *Cycling news, reviews, etc.*
 
